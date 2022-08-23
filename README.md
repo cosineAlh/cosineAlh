@@ -2,7 +2,8 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-My ![Visitor Count](https://profile-counter.glitch.me/cosineAlh/count.svg) visitor
+<div align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=cosineAlh" alt="访客统计" /></div>
 
 
 # Hello World <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
