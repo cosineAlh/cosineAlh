@@ -9,7 +9,7 @@
 # Hello World
 
 - 🔭 I’m currently studying in **ShanghaiTech University**
-- 🌱 I’m currently learning **MRAM**
+- 🌱 I’m currently learning **In-memory Computing**
 - 💬 Ask me about my projects
 - 📫 How to reach me: **anlh@shanghaitech.edu.cn**
 
