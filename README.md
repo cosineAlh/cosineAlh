@@ -2,10 +2,6 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-<div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=cosineAlh" alt="访客统计" /></div>
-
-
 # Hello World
 
 - 🔭 I’m currently studying in **ShanghaiTech University**
