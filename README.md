@@ -1,7 +1,7 @@
 # Hello World
 
 - 🔭 I’m currently studying in **ShanghaiTech University**
-- 🌱 I’m currently learning **In-memory Computing**
+- 🌱 I’m currently learning **Computing In-Memory (CIM), Energy Efficient NN Accelerator, Software/Hardware Co-Design**
 - 💬 Ask me about my projects
 - 📫 How to reach me: **anlh@shanghaitech.edu.cn**
 
