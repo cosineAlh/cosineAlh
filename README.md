@@ -3,7 +3,7 @@
 - 🔭 I’m currently studying in **ShanghaiTech University**
 - 🌱 I’m currently learning **Computing In-Memory (CIM), Energy Efficient NN Accelerator, Software/Hardware Co-Design**
 - 💬 Ask me about my projects
-- 📫 How to reach me: **anlh@shanghaitech.edu.cn**
+- 📫 How to reach me: **anlh2022@shanghaitech.edu.cn**
 
 # About My Github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosineAlh&layout=compact)](https://github.com/cosineAlh/github-readme-stats)
