@@ -8,9 +8,20 @@
 # About My Github
 <div align="center">
 <!-- 添加动态数据卡片 -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cosineAlh&theme=radical" width="33%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cosineAlh&theme=radical" width="33%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cosineAlh&theme=radical" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cosineAlh&theme=github" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cosineAlh&theme=github" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cosineAlh&theme=github" width="33%" />
+
+<!-- 贡献蛇形图 - 优化显示效果 -->
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+<!-- 实时贡献日历热图 -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cosineAlh&theme=github" width="100%" />
+</div>
 
 <!-- Gif -->
 <div align="center">
