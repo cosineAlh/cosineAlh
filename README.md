@@ -6,9 +6,11 @@
 - 📫 How to reach me: **anlh2022@shanghaitech.edu.cn** (work) or **1277337381@qq.com** (personal)
 
 # About My Github
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosineAlh&layout=compact)](https://github.com/cosineAlh/github-readme-stats)
-
-![cosineAlh's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosineAlh&show_icons=true&theme=tokyonight)
+<div align="center">
+<!-- 添加动态数据卡片 -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cosineAlh&theme=radical" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cosineAlh&theme=radical" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cosineAlh&theme=radical" width="33%" />
 
 <!-- Gif -->
 <div align="center">
